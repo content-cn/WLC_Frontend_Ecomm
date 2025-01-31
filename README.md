@@ -18,6 +18,7 @@ The **E-commerce Project** is a fully functional e-commerce platform built with 
 
 ### 3. **Product Page**
 - **Dynamic Product Listing**: The **Product Page** dynamically displays products fetched from an external **API**.
+- **Bootstrap**: The page layout is enhanced with **Bootstrap** for easy grid-based design and responsive elements.
 - **JSON**: Product details are stored and rendered using **JSON data**, making it easy to update or expand the product catalog.
 - **CRUD Operations**: Basic **CRUD** operations are implemented for product management (e.g., add, update, delete).
 
@@ -44,6 +45,7 @@ The **E-commerce Project** is a fully functional e-commerce platform built with 
 ## Technologies Used
 - **HTML/CSS**: For building the structure and styling of the web pages.
 - **JavaScript**: For adding interactivity, event handling, API integration, and search functionality.
+- **Bootstrap**: For responsive design and layout components.
 - **JSON**: For dynamic rendering of product data.
 - **Fetch API**: For fetching external product data and other resources.
 - **Local Storage**: For saving and persisting the shopping cart data.
